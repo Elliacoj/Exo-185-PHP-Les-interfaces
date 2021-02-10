@@ -9,6 +9,4 @@ interface UserInterface
     public function getRequest($request);
 
     public function parseRequest();
-
-
 }
